@@ -1,6 +1,6 @@
 # EcoNets
 
-This repository contains Matlab software for simulating ecological networks and foodweb dynamics. This software was used to simulate the data for the paper by [Faisal, Dondelinger et al. (2010)]((http://eprints.gla.ac.uk/69298/1/69298.pdf). Original code by Jonathan Yearsley, with modifications by Frank Dondelinger.
+This repository contains Matlab software for simulating ecological networks and foodweb dynamics, and for inferring Bayesian networks from such data. This software was used to simulate the data and perform some of the analysis for the paper by [Faisal, Dondelinger et al. (2010)]((http://eprints.gla.ac.uk/69298/1/69298.pdf). Original code by Jonathan Yearsley, with modifications by Frank Dondelinger.
 
 # References
 
